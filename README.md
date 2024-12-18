@@ -3,6 +3,7 @@ Siqi Sun, Procheta Sen and Wenjie Ruan\*
 
 *Corresponding Author
 
+Our work has been accepted by [Findings of the Association for Computational Linguistics: EMNLP 2024](https://aclanthology.org/volumes/2024.findings-emnlp/)
 A certified robustness verification is proposed with theoretical guarantees targeted to the NLP classifier against backdoor attacks.
 
 ##  Abstract
